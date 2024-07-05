@@ -1,0 +1,18 @@
+[
+    {
+      "role": "Web Developer Intern",
+      "organisation": "AITR ACM",
+      "startDate": "April, 2024",
+      "endDate": "Present",
+      "experiences": ["Worked on UniNote project which is an alternative to google classrrom with new features"],
+      "imageSrc": "history/acm.png"
+    },
+    {
+      "role": "Content Writer",
+      "organisation": "AITR ACM",
+      "startDate": "Oct, 2023",
+      "endDate": "Sept, 2024",
+      "experiences": ["Created website content, provided content for social media posts, and worked on reports and documentation for various events"],
+      "imageSrc": "history/acm.png"
+    } 
+  ]

@@ -1,0 +1,26 @@
+[
+    {
+      "title": "To-Do List App",
+      "imageSrc": "projects/project1.png",
+      "description": "It helps you manage tasks easily by organizing them, setting priorities, and tracking deadlines.",
+      "skills": ["HTML", "CSS", "Js"],
+      "demo": "https://github.com/maheshwarinitya08/ToDo-app",
+      "source": "https://github.com/maheshwarinitya08/ToDo-app"
+    },
+    {
+      "title": "Resume Generator",
+      "imageSrc": "projects/project2.png",
+      "description": "The system is developed to provide an easy means for creating a professional looking resume.",
+      "skills": ["HTML", "CSS", "Js"],
+      "demo": "https://github.com/maheshwarinitya08/Resume-generator",
+      "source": "https://github.com/maheshwarinitya08/Resume-generator"
+    },
+    {
+      "title": "UniNote",
+      "imageSrc": "projects/project.png",
+      "description": "UniNote is a revolutionary platform designed for the university, unifying students, faculty, and alumni. It offers course notes and video lectures at one centralized platform.",
+      "skills": ["NextJs", "NodeJs"],
+      "demo": "https://github.com/AITR-ACM/UniNote",
+      "source": "https://github.com/AITR-ACM/UniNote"
+    }
+  ]
